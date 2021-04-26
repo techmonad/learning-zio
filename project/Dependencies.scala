@@ -4,7 +4,7 @@ object Dependencies {
 
   object V {
 
-    lazy val zio = "1.0.0-RC10-1"
+    lazy val zio = "1.0.7"
 
   }
 
