@@ -11,6 +11,6 @@ object Dependencies {
   lazy val zio = "dev.zio" %% "zio" % V.zio
   lazy val zioStreams = "dev.zio" %% "zio-streams" % V.zio
 
-  lazy val scalaTest = "org.scalatest" %% "scalatest" % "3.2.8"
+  lazy val scalaTest = "org.scalatest" %% "scalatest" % "3.2.11"
 
 }
